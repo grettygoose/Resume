@@ -55,7 +55,7 @@ var bio = {
     "contacts": {
         "moblie": "206-331-2720",
         "email": "gidget5169@gmail.com",
-        "GitHub/Slack": "@grettygoose",
+        "github": "@grettygoose",
         "location": "Seattle, WA"
     },
     "welcomeMessage": "Cancer Researcher -- Front-End-Developer -- Dog Lover -- Traveluster",
