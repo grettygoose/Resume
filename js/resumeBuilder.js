@@ -55,11 +55,11 @@ var bio = {
     "contacts": {
         "moblie": "206-331-2720",
         "email": "gidget5169@gmail.com",
-        "github": "@grettygoose",
+        "GitHub/Slack": "@grettygoose",
         "location": "Seattle, WA"
     },
     "welcomeMessage": "Cancer Researcher -- Front-End-Developer -- Dog Lover -- Traveluster",
-    "skills": ["HTML", "CSS (SCSS)", "JQuery", "GitHub", "CraftCMS", "MongoDB"],
+    "skills": ["HTML", "CSS (Scss)", "Bootstrap" ,"JQuery", "GitHub", "CraftCMS", "D3"],
     "biopic": "images/gretty.jpg",
 
 
