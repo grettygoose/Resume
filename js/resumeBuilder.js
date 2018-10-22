@@ -207,4 +207,4 @@ education.display = function() {
 education.display();
 
 // render google map
-$("#mapDiv").append(googleMap);
+// $("#mapDiv").append(googleMap);
