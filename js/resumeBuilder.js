@@ -2,6 +2,14 @@
 var work = {
     "jobs": [{
         "employer": "Fred Hutch",
+        "title": "Software Development Engineer II",
+        "location": "Seattle, WA",
+        "dates": "2016- Current",
+        "url": "https://www.fredhutch.org/en.html",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+        "employer": "Fred Hutch",
         "title": "System Analyst/Programmer II",
         "location": "Seattle, WA",
         "dates": "2015- Current",
@@ -27,9 +35,9 @@ var projects = {
     "projects": [{
         "title": "Oncoscape",
         "dates": "2015 -Current",
-        "description": "Oncoscape is a collaborative platform and community that unites the clinical, genetic, and computational fields in an effort to advance the understanding of cancer biology and improve patient care.",
+        "description": "Seattle Tumor Translational Research (STTR) assists cancer researchers and clinicians to extract biological meaning through the development of custom software solutions. The rapid growth of both public datasets and analytic methods presents challenges and opportunities. To maximize impact researchers often need to enlist the support of biostatisticians, data scientists and software engineers that specialize in cloud technologies. To help mitigate these challenges, STTR has built a cloud-based platform called Oncoscape.  Our solution allows users to upload clinical and molecular data; leverage industry standard analytic libraries; augment with NCI sponsored datasets and visualize with dozens of novel online interactive tools. Our mission is to accelerate your science.",
         "images": ["images/resourcesOncoscape.png"],
-        "url": "https://oncoscape.sttrcancer.org/#/"
+        "url": "https://oncoscape.v3.sttrcancer.org/"
 
     }, {
         "title": "Hicor-IQ",
