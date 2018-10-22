@@ -67,7 +67,7 @@ var bio = {
         "location": "Seattle, WA"
     },
     "welcomeMessage": "Cancer Researcher -- Front-End-Developer -- Dog Lover -- Traveluster",
-    "skills": ["HTML", "CSS (Scss)", "Bootstrap" ,"JQuery", "GitHub", "CraftCMS", "D3"],
+    "skills": ["HTML", "CSS (Scss)", "Bootstrap" ,"CraftCMS", "GitHub", "JavaScript", "Angular"],
     "biopic": "images/gretty.jpg",
 
 
@@ -93,8 +93,14 @@ var education = {
     "onlineCourses": [{
         "title": "Front End Web Development",
         "school": "Udacity",
-        "dates": "2017-Current",
-        "url": "https://www.udacity.com/"
+        "dates": "2017-2017",
+        "url": "https://confirm.udacity.com/CRKC5CPK"
+    },
+    {
+        "title": "Udemy (various-frontend)",
+        "school": "Udemy.com",
+        "dates": "2015-current",
+        "url": "https://www.udemy.com/"
     }]
 };
 
